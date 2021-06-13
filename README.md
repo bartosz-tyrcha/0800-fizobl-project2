@@ -17,7 +17,7 @@ Natomiast drugie, znacznie szersze minimum, zlokalizowane w okolicy 0,5 nm odpow
 
 Widoczny jest również gwałtowny wzrost energii swobodnej dla odległości powyżej 0,6 nm, który nie jest możliwy do powiązania z żadnym fizycznym efektem.
 Wynika on z użycia w trakcie symulacji metadynamiki dodatkowego, niefizycznego, potencjału mającego kształt prawego ramienia paraboli, tj.
-![](./eq_bias_potential.png)
+![](./eq_bias_potential.png)\
 gdzie *d* jest odległością pomiędzy Na i Cl, *d<sub>0* = 0,6 nm oraz *a* > 0.
 Celem użycia tego potencjału jest ograniczenie przestrzeni próbkowanej przez układ w trakcie symulacji.
 Skutkuje to pojawieniem się bariery dla odległości większych niż 0,6 nm na wykresie energii swobodnej.
